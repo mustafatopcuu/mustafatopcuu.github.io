@@ -68,5 +68,5 @@ I have worked across logistics, telecommunications, energy, and cybersecurity-fo
 
 ## 📫 Contact
 - 📍 Istanbul, Türkiye
-- 💼 LinkedIn: *(add your link)*
+- 💼 LinkedIn:    https://www.linkedin.com/in/mustafatopcu
 - ✉️ Email: mustafa.topcu@yahoo.com
